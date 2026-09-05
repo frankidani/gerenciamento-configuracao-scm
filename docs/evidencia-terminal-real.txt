@@ -1,0 +1,1 @@
+Evidência terminal real: fluxo executado com URL HTTPS do GitHub.
