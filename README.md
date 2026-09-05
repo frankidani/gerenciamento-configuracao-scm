@@ -25,6 +25,10 @@ python3 src/novo.py
 python3 src/nova_funcionalidade.py
 ```
 
+## Repositório remoto
+
+A versão publicada está disponível no repositório privado: https://github.com/frankidani/gerenciamento-configuracao-scm
+
 ## Observação
 
-O fluxo foi preparado para ser publicado em um repositório GitHub. Nesta entrega, a demonstração também mantém um repositório remoto bare local, permitindo reproduzir integralmente o ciclo de versionamento mesmo sem uma conta GitHub conectada à sessão.
+O fluxo também mantém um repositório remoto bare local para reprodução independente da atividade. A versão principal foi publicada no GitHub com a branch `main`.
